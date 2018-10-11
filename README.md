@@ -1,10 +1,10 @@
 # UMeR
-[POO] Java applet that manages the entire system of a similiar system to UBER developed in Object-Oriented Programming classes in University of Minho
+[POO] Java applet that manages the entire system of a similiar system to UBER developed in Object-Oriented Programming classes at University of Minho.
 
 # Contributors
 
-[Vitor](https://github.com/VitorPeixoto97)
+[Vitor Peixoto](https://github.com/VitorPeixoto97)
 
-[Raul](https://github.com/MrBoas)
+[Raul Vilas Boas](https://github.com/MrBoas)
 
-[Francisco](https://github.com/Tibblue)
+[Francisco Oliveira](https://github.com/Tibblue)
