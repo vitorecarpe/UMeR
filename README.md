@@ -1,5 +1,5 @@
 # UMeR
-[POO] Java applet that manages the entire system of a similiar system to UBER developed in Java as a project for "Programação Orientada aos Objetos" course in Computer Science Engineering at University of Minho.
+[POO] Applet that manages an entire transportation system similar to UBER developed in Java as a project for "Programação Orientada aos Objetos" course in Computer Science Engineering at University of Minho.
 
 # Contributors
 
